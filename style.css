@@ -7,7 +7,6 @@ p {
 	margin: 0 0;
 	position: absolute;
 	font: 16px Verdana;
-    
 	color: #eee;
 	height: 25px;
 	top: calc( 100vh - 30px );
